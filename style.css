@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+  background-color: #fff8f0;
+  color: #1c1c1c;
+
+}
+.menu{
+    width: 550px;
+    height: 510px;
+   background-color: #dec4ba;
+  color: #333;
+  margin:40px auto;
+  padding: 30px 10px;
+  border: 1px solid ff7f50;
+  border-radius: 22px;
+  box-shadow: 2px 2px 22px #333;
+}
+.head{
+  font-family: 'Playfair Display', serif;
+  font-size:54px;
+  text-align: center;
+  font-style: italic;
+}
+ 
+ul{
+     
+    list-style: none;
+    
+}
+ul li{
+    margin-top: 50px;
+ 
+    text-align: center;
+}
+.list-menu li a{
+    color: #333;
+    text-decoration: none;
+    font-size:43px ;
+    font-style: italic;
+   
+}
+.list-menu li a:hover{
+    text-decoration: underline;
+    text-shadow:1px 1px 1p1x #333;
+}

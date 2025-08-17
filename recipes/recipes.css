@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+  background-color: #fff8f0;
+  color: #1c1c1c;
+
+}
+a{
+    color: #333;
+     color: #333;
+    text-decoration: none;
+    font-size: 23px;
+}
+.head{
+    padding: 10px;
+    margin-bottom:80px;
+}
+
+.home{
+    float:left;
+   
+     
+}
+.home a{
+     font-size: 31px;
+}
+.others{
+  float: right;
+}
+.others a{
+    margin-right: 30px;
+}
+h1{
+    clear: both;
+}
+.middle{
+    padding: 20px 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.middle img{
+    border: 1px solid #fff8f0;
+    border-radius: 20px;
+    box-shadow:1px 1px 4px #000000 ;
+
+}
+.img{
+    align-self: center;
+}
+.left{
+    margin-right: 20px;
+}
+.left h1{
+    font-size: 42px;
+    margin-bottom: 30px;
+    font-weight: 400;
+}
+.left p{
+    font-size: 21px;
+    font-weight: 100;
+}
+h2{
+    font-weight:400 ;
+}
+.rec1{
+    margin-top: 70px;
+    font-size: 38px;
+    text-align: center;
+}
+.rec2{
+    margin: 30px 40px;
+    font-size:35px ;
+
+}
+.ingredient{
+     margin: 10px 50px;
+     list-style: decimal;
+}
+.ingredient li{
+   margin-top: 20px;
+   font-size: 20px;
+
+}
+.steps{
+    font-size:35px ;
+    margin: 30px 40px;
+}
+ol{
+    margin: 10px 50px;
+     list-style: decimal; 
+}
+ol li{
+       margin-top: 20px;
+   font-size: 20px;
+}
